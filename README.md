@@ -1,24 +1,11 @@
-# README
+# RailsSkeleton
+## 想定
+以下の言語を使用したWebアプリケーションのスケルトン
+フロントエンド : TypeScript(React.js)
+バックエンド　 : Ruby(RubyOnRails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 動作方法
+storybook : 「yarn storybook」
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 将来的にしたいメモ
+Dockerを使った環境構築
