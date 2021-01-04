@@ -6,6 +6,3 @@
 
 ## 動作方法
 storybook : 「yarn storybook」
-
-## 将来的にしたいメモ
-Dockerを使った環境構築
