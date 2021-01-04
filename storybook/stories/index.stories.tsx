@@ -1,7 +1,7 @@
-import React from 'react';
+import * as React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import Main from "../../frontend/ts/main"
+import SignInPage from "../../frontend/ts/pages/SignInPage"
 
 storiesOf('page', module)
-  .add('Main', () => <Main />);
+  .add('サインイン', () => <SignInPage />);
